@@ -1,0 +1,13 @@
+.recipeitem{
+    font-size: 30px;
+    color:purple;
+    font-family: cursive;
+}
+*{
+    text-align: center;
+    background-color: lightgray;
+}
+
+ul{
+    color:seagreen;
+}
